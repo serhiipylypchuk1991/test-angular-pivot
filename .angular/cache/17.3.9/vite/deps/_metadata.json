@@ -1,0 +1,34 @@
+{
+  "hash": "0625f229",
+  "configHash": "4e32d72b",
+  "lockfileHash": "00bbddc0",
+  "browserHash": "d7978ec7",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "80e2608c",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "47eea7c6",
+      "needsInterop": false
+    },
+    "@dhx/trial-pivot": {
+      "src": "../../../../../node_modules/@dhx/trial-pivot/dist/pivot.es.js",
+      "file": "@dhx_trial-pivot.js",
+      "fileHash": "2f60900e",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-BAGTWN6P": {
+      "file": "chunk-BAGTWN6P.js"
+    },
+    "chunk-J4B6MK7R": {
+      "file": "chunk-J4B6MK7R.js"
+    }
+  }
+}
